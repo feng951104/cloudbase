@@ -255,7 +255,7 @@
 
         <lombok.version>1.18.2</lombok.version>
         <spring-dubbo.version>0.2.0</spring-dubbo.version>
-        <zk-client.version>0.10</zk-client.version>
+        <zk-client.version>0.11</zk-client.version>
 
 
     </properties>
